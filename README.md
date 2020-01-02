@@ -1,2 +1,2 @@
 # NeuralNetworkCellularAutomata
-A cellular Automata powered by neural networks
+A cellular automata powered by neural networks
